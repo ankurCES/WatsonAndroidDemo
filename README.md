@@ -8,6 +8,6 @@ Currently, only Visual Recognition has been implemented.
 
 ### Future Plans
 
-Implement Personality Insights
-Tone Analysis
-Speech to Text
+#### Implement Personality Insights
+#### Tone Analysis
+#### Speech to Text
